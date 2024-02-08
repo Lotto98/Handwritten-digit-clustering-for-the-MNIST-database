@@ -1,4 +1,7 @@
 # Handwritten-digit-clustering-for-the-MNIST-database
+
+Third progect for FOUNDATION OF ARTIFICIAL INTELLIGENCE exam. (Master's degree)
+
 Perform classification of the  MNIST database  (or a sufficiently small subset of it) using:
 
     - mixture of Gaussians with diagonal covariance (Gaussian Naive Bayes with latent class label);
